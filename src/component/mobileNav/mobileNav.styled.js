@@ -61,7 +61,7 @@ export const NavMenu = styled.div`
   background: ${({ theme }) => theme.body};
   
   transform: ${({ open }) => (!open ? 'translateX(100%)' : 'translateX(0)')};
-  height: calc(100vh - 63px);
+  height: calc(100vh + 63px);
   width: 100%;
   text-align: center;
   position: absolute;

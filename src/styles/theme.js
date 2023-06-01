@@ -7,7 +7,7 @@ export const lightTheme = {
     accentBackground: "#363537",
     accentText: '#FAFAFA',
     accentColor: "#8A2BE2",
-    boxShadow: "11px 11px 10px 2px rgba(0, 0, 0, 0.2)",
+    boxShadow: "0px 5px 10px 8px rgba(0, 0, 0, 0.2)",
 };
 
 export const darkTheme = {
@@ -18,6 +18,6 @@ export const darkTheme = {
     accentBackground: "#FFF",
     accentText: '#363537',
     accentColor: "#8A2BE2",
-    boxShadow: "11px 11px 10px 2px rgba(180, 35, 236, 0.2)",
+    boxShadow: "0px 5px 10px 10px rgba(180, 35, 236, 0.2)",
 
 }

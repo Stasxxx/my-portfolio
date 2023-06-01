@@ -15,8 +15,6 @@ export const Cont = styled.div`
   justify-content: center;
   align-items: center;
   padding-top: 100px;
-  /* margin-left: auto;
-  margin-right: auto; */
 }
 `;
 

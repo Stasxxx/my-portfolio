@@ -6,25 +6,25 @@ export const ContactMe = () => {
             <Title>Cuntact Me</Title>
             <ContactsList>
                 <Item>
-                    <Link href="https://github.com/Stasxxx" target="_blank" >
+                    <Link href="https://github.com/Stasxxx" target="_blank" rel="noreferrer noopener">
                         <Img src={img.git} alt="Call me" width="46px" />
                         <Text>GitHub</Text>
                     </Link>
                 </Item>
                 <Item>
-                    <Link href="https://www.facebook.com/stanislav.korobchenko.3" target="_blank">
+                    <Link href="https://www.facebook.com/stanislav.korobchenko.3" target="_blank" rel="noreferrer noopener">
                         <Img src={img.facebook} alt="Call me" width="46px" />
                         <Text>Facebook</Text>
                     </Link>
                 </Item>
                 <Item>
-                    <Link href="https://www.linkedin.com/in/stanislav-korobchenko/" target="_blank" >
+                    <Link href="https://www.linkedin.com/in/stanislav-korobchenko/" target="_blank" rel="noreferrer noopener">
                         <Img src={img.linkedin} alt="Call me" width="46px" />
                         <Text>LinkedIn</Text>
                     </Link>
                 </Item>
                 <Item>
-                    <Link href="mailto:stanislav.govoruhim@gmail.com" target="_blank" >
+                    <Link href="mailto:stanislav.govoruhin@gmail.com" target="_blank" rel="noreferrer noopener">
                         <Img src={img.mail} alt="Call me" width="46px" />
                         <Text>Mail</Text>
                     </Link>

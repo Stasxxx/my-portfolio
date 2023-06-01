@@ -18,6 +18,7 @@ export const Hero = ({changeTheme}) => {
                         <Name changeTheme={changeTheme.theme}>
                         <Typewriter
                             cursor
+                            cursorBlinking={false}
                             cursorStyle="!"
                             loop
                             typeSpeed={100}

@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const ContHero = styled.div`
+export const ContHero = styled.section`
   padding-top: 80px;
   display: flex;
   flex-direction:column-reverse;
