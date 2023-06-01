@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.041ed05f.css",
+    "main.js": "/my-portfolio/static/js/main.e08925e3.js",
+    "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/hero.jpg": "/my-portfolio/static/media/hero.e5e2654628ada201f0ad.jpg",
+    "static/media/IT-technology-light.jpg": "/my-portfolio/static/media/IT-technology-light.43768dd99c205928ae4c.jpg",
+    "static/media/Filmoteka.jpg": "/my-portfolio/static/media/Filmoteka.5ebb33f846d8a1b90ffe.jpg",
+    "static/media/WebStudio.jpg": "/my-portfolio/static/media/WebStudio.ff1bf0de4052fcd5662e.jpg",
+    "static/media/Stanislav Korobchenko-junior frontend developer.pdf": "/my-portfolio/static/media/Stanislav Korobchenko-junior frontend developer.e5977d85dd4ef93a5c18.pdf",
+    "static/media/IT-technolojy.jpg": "/my-portfolio/static/media/IT-technolojy.5f578f2c42fa59113361.jpg",
+    "static/media/IceCream.jpg": "/my-portfolio/static/media/IceCream.74a3254e81918da22723.jpg",
+    "static/media/Patly.jpg": "/my-portfolio/static/media/Patly.1b6f18484d7755b24fe7.jpg",
+    "static/media/responsive.svg": "/my-portfolio/static/media/responsive.eeeec17c5eff95b5ab15326696a94107.svg",
+    "static/media/api.svg": "/my-portfolio/static/media/api.c070e3fae22c931c463278af193e0f04.svg",
+    "static/media/sass_dark.svg": "/my-portfolio/static/media/sass_dark.190a5ecf93d53cdc6262ae222964a8f6.svg",
+    "static/media/sun.svg": "/my-portfolio/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/my-portfolio/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/icons8-gmail-96.svg": "/my-portfolio/static/media/icons8-gmail-96.0253dba86627df53c56e84a33f073d23.svg",
+    "static/media/react.svg": "/my-portfolio/static/media/react.48a8e2d431a5ef2ce939b52251aac225.svg",
+    "static/media/redux.svg": "/my-portfolio/static/media/redux.eacb182e28c7229dc6f902b175878de3.svg",
+    "static/media/webpack.svg": "/my-portfolio/static/media/webpack.13dd22e3b763fc1ef03fc365ea341527.svg",
+    "static/media/js_dark.svg": "/my-portfolio/static/media/js_dark.ad8cfaedabc8e8e4f095fbf2019bd3c3.svg",
+    "static/media/icons8-github-96.svg": "/my-portfolio/static/media/icons8-github-96.62bc53617e911f44a9f9ab993d8e446d.svg",
+    "static/media/git.svg": "/my-portfolio/static/media/git.f4182b89daccee3af9587b586c8989c8.svg",
+    "static/media/html.svg": "/my-portfolio/static/media/html.b78a6edc96b029fa9cb3db1d879f1e76.svg",
+    "static/media/css_dark.svg": "/my-portfolio/static/media/css_dark.c47a82447fa1970c730ae088e8f8b404.svg",
+    "index.html": "/my-portfolio/index.html",
+    "static/media/icons8-линкедин-96.svg": "/my-portfolio/static/media/icons8-линкедин-96.ecadf8ce2ab9f31dd0278e1b5c8cc7ca.svg",
+    "static/media/icons8-facebook-96.svg": "/my-portfolio/static/media/icons8-facebook-96.c87e7de643b50595973bace295b7a0f5.svg",
+    "main.041ed05f.css.map": "/my-portfolio/static/css/main.041ed05f.css.map",
+    "main.e08925e3.js.map": "/my-portfolio/static/js/main.e08925e3.js.map",
+    "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.041ed05f.css",
+    "static/js/main.e08925e3.js"
+  ]
+}
